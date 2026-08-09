@@ -40,24 +40,39 @@
   <img src="https://img.shields.io/badge/Current-AWS-orange?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Current-HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black" />
 </p>
+
 ### 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vennela506&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Vennela's GitHub Stats" height="190px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vennela506&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vennela506&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Vennela's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vennela506&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela506&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela506&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="160px" />
 </p>
 
 ---
+
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vennela506/vennela506/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
+
+### 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vennela-sai-gogineni-55257b36a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[Your-Twitter-URL]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="[Your-Instagram-URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:vennelagogineni075@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=fadeIn" width="100%" />
