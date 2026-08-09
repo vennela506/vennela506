@@ -5,11 +5,11 @@
 <table border="0">
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 Cutting-Edge Developer</h3>
+      <h3>🚀 Quick Summary</h3>
       <p>I am a <b>B.Tech CSE Student</b> specializing in <b>Artificial Intelligence</b>. I build high-performance systems and intelligent algorithms that solve real-world problems.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/AI%20Architecture-8338ec?style=for-the-badge&logo=codeproject&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Neural%20Networks-3a86ff?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Architecture-8338ec?style=for-the-badge&logo=codeproject&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Neural_Networks-3a86ff?style=for-the-badge&logo=pytorch&logoColor=white" />
       </p>
       <ul>
         <li>🔭 <b>Working on:</b> Neural Network Optimization</li>
@@ -20,11 +20,10 @@
       <p>
         <a href="mailto:vennelagogineni075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/vennela-sai-gogineni-55257b36a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="[Your-Portfolio-Link]"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" /></a>
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5bmU3YXh6ZzR0OHZqZzF4M3V4bmN4bmN4bmN4bmN4bmN4bmN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LMc7wS6fAAr5mX5Fh3/giphy.gif" width="100%" />
+      <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/coding.gif" width="350px" />
     </td>
   </tr>
 </table>
