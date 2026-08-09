@@ -40,3 +40,15 @@
   <img src="https://img.shields.io/badge/Current-AWS-orange?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Current-HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black" />
 </p>
+### 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vennela506&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Vennela's GitHub Stats" height="190px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vennela506&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela506&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="165px" />
+</p>
+
+---
