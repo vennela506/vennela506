@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:b100ff,100:00d4ff&height=300&section=header&text=VENNELA&fontSize=90&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=200&section=header&text=Vennela&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
