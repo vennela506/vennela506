@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=200&section=header&text=Hi%20👋,%20I'm%20Vennela&fontSize=40&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,00d4ff,50,8338ec,90,ff006e&height=220&section=header&text=Hi%20👋,%20I'm%20Vennela&fontSize=50&animation=twinkling&fontAlignY=45" width="100%" />
