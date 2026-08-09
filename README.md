@@ -2,28 +2,27 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=28&pause=1500&color=4361ee&center=true&vCenter=true&width=600&lines=Crafting+Intelligent+AI+Solutions;Building+the+Future+with+ML+%26+Code;CSE+Student+%E2%80%A2+Researcher+%E2%80%A2+Developer" alt="Typing SVG" />
 </p>
-<table border="0">
+<table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3>🚀 Quick Summary</h3>
-      <p>I am a <b>B.Tech CSE Student</b> specializing in <b>Artificial Intelligence</b>. I build high-performance systems and intelligent algorithms that solve real-world problems.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/AI_Architecture-8338ec?style=for-the-badge&logo=codeproject&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Neural_Networks-3a86ff?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <p>I am a <b>B.Tech CSE Student</b> passionate about bridging the gap between human logic and <b>Artificial Intelligence</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-8338ec?style=flat-square&logo=brainly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Learning-Deep%20Learning-3a86ff?style=flat-square&logo=google-colab&logoColor=white" />
       </p>
       <ul>
-        <li>🔭 <b>Working on:</b> Neural Network Optimization</li>
-        <li>💡 <b>Interest:</b> Generative AI & Robotics</li>
-        <li>⚡ <b>Philosophy:</b> Code is the new electricity</li>
+        <li>🔭 <b>Working on:</b> Innovative AI solutions</li>
+        <li>💡 <b>Interest:</b> Neural Networks & NLP</li>
+        <li>⚡ <b>Fact:</b> I code better with caffeine</li>
       </ul>
-      <br>
-      <p>
-        <a href="mailto:vennelagogineni075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/vennela-sai-gogineni-55257b36a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <p align="left">
+        <a href="mailto:vennelagogineni075@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+        <a href="https://www.linkedin.com/in/vennela-sai-gogineni-55257b36a"><img src="https://img.shields.io/badge/Connect-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
       </p>
     </td>
-    <td width="45%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/coding.gif" width="350px" />
+    <td width="50%" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
