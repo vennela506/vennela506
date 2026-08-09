@@ -26,3 +26,17 @@
     </td>
   </tr>
 </table>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,tensorflow,pytorch,linux,docker,git,github&perline=6" />
+  </a>
+</p>
+
+**Learning & Exploring:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Current-OpenCV-blue?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current-AWS-orange?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current-HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black" />
+</p>
